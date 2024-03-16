@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "581632559212",
+    "firebase_url": "https://rakna-ea203-default-rtdb.firebaseio.com",
+    "project_id": "rakna-ea203",
+    "storage_bucket": "rakna-ea203.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581632559212:android:e7f50940af37433a803049",
+        "android_client_info": {
+          "package_name": "com.example.rakna"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnQ_fXaI2WxwOwGs7ZTsxWHzUgm6EfDow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
